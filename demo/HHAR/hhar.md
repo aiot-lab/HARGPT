@@ -146,3 +146,5 @@ Considering these observations, the data slightly favors the hypothesis that the
 ```
 
 ## 3. Suggestion
+
+You can replace the IMU data with your own and try to analyze the human activity based on the given information and IMU readings.
