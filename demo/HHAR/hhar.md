@@ -1,6 +1,7 @@
 # Inference Reasoning for [HHAR](https://archive.ics.uci.edu/dataset/344/heterogeneity+activity+recognition) Dataset (GPT4)
 
 You can copy the following prompts and try to figure out the HAR category for the given input.
+If you want to use the following prompts on ChatGPT website, then please add `Please do not use code script.` at the end of the **Content**.
 
 ## 1. Upstairs
 <img src="../img/upstairs.png" width="200">
