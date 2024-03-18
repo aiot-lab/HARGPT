@@ -1,6 +1,7 @@
 # Inference Reasoning for [Capture24](https://github.com/OxWearables/capture24) Dataset (GPT4)
 
-You can copy the following prompts and try to figure out the HAR category for the given input.
+You can copy the following prompts (for OpenAI API) and try to figure out the HAR category for the given input.
+If you want to use the following prompts on ChatGPT website, then please add `Please do not use code script.` at the end of the **Content**.
 
 ## 1. Walking Case
 ![Walking](../img/walking.png)
